@@ -233,11 +233,11 @@
             return opensuccesscb();
           });
         };
-      })(this), error((function(_this) {
-        return function() {
+      })(this), (function(_this) {
+        return function(error) {
           return console.log('resolve path error');
         };
-      })(this)));
+      })(this));
     }
   };
 

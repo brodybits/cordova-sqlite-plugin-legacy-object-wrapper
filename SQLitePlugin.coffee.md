@@ -281,7 +281,7 @@
             # console.log 'check idmap'
             # console.log JSON.stringify idmap
             opensuccesscb()
-        , error => console.log 'resolve path error'
+        , (error) => console.log 'resolve path error'
 
       return
 
