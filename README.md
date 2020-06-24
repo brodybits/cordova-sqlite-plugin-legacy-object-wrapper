@@ -1,4 +1,4 @@
-# cordova-sqlite-storage-connection-core-js
+# cordova-sqlite-plugin-legacy-object-wrapper
 
 LICENSE: GPL v3 (based on MIT-licensed software from [`github:xpbrew/cordova-sqlite-storage`](https://github.com/xpbrew/cordova-sqlite-storage)
 
@@ -11,8 +11,8 @@ How to this library with the new plugin in an app:
   - `git clone https://github.com/brodybits/cordova-plugin-sqlite-batch-connection-manager-core`
   - `(cd cordova-plugin-sqlite-batch-connection-manager-core && make build)`
 - do `cordova plugin add ./cordova-plugin-sqlite-batch-connection-manager-core`
-- copy `SQLitePlugin.js` from this project into the `www` directory
-- add the following to `www/index.html`: `<script src="SQLitePlugin.js"></script>`
+- copy `cordova-sqlite-plugin-legacy-object-wrapper.js` from this project into the `www` directory
+- add the following to `www/index.html`: `<script src="cordova-sqlite-plugin-legacy-object-wrapper.js"></script>`
 - do `cordova plugin add cordova-sqlite-storage-file`
 
 IMPORTANT LIMTATIONS AND OTHER NOTES:
