@@ -2,7 +2,7 @@
 
 LICENSE: GPL v3 (based on MIT-licensed software from [`github:xpbrew/cordova-sqlite-storage`](https://github.com/xpbrew/cordova-sqlite-storage)
 
-provides cordova-sqlite-storage API for [`github:brodybits/cordova-plugin-sqlite-batch-connection-manager-core`](https://github.com/brodybits/cordova-plugin-sqlite-batch-connection-manager-core), which in turn uses [`github:brodybits/sqlite-batch-connection-core-preview-2020-01`](https://github.com/brodybits/sqlite-batch-connection-core-preview-2020-01)
+provides cordova-sqlite-storage JavaScript API for [`github:brodybits/cordova-plugin-sqlite-batch-connection-manager-core`](https://github.com/brodybits/cordova-plugin-sqlite-batch-connection-manager-core), which in turn uses [`github:brodybits/sqlite-batch-connection-core-2020-01`](https://github.com/brodybits/sqlite-batch-connection-core-2020-01)
 
 How to this library with the new plugin in an app:
 
